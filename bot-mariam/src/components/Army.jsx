@@ -28,7 +28,7 @@ deleting(bot)
               <div>⚡<span>{damage}</span></div>
               <div>🛡<span>{armor}</span></div>
       </div>
-      {container==="armyContainer" ? <button onClick={setting}>x</button> : null}
+      {container==="armyContainer" ? <button className = "button" onClick={setting}>x</button> : null}
       </div>
   )
 }
