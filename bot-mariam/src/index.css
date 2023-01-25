@@ -12,18 +12,25 @@ body {
   background-color: rgb(122, 216, 45);
 }
 
-.displayItems{
-  flex-wrap: nowrap;
+.displayItems {
+  
+  padding: 0px 20px;
+ background-color: rgb(238, 181, 181);
   min-height: 100%;
+  width: 27%;
+  margin: auto;
+  margin: 5px;
 }
 
-.displayItems {
-  padding: 0px 20px;
-  
-}
 
   
 .button{
-  background-color: red;
+  background-color: red
+  ;
 }
 
+.style{
+  display: flex;
+  flex-wrap: wrap;background-color: aqua;
+  width: 108%;
+}
