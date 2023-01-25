@@ -8,7 +8,7 @@ body {
   word-wrap: break-word;
 }
 
-.bot-army {
+.displayitems{
   overflow-x: scroll;
   min-height: 300px;
   max-width: 100%;

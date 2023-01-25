@@ -25,13 +25,13 @@ setting up the application.
 After unbundling the project:
 
 1. Run `npm install` in your terminal.
-2. Run `npm run server`. This will run your backend on port `8002`.
-3. In a new terminal, run `npm start`. This will run your React app on port `8000`.
+2. Run `npm run server`. This will run your backend on port `3002`.
+3. In a new terminal, run `npm start`. This will run your React app on port `3000`.
 
-Make sure to open [http://localhost:8002/bots](http://localhost:8002/bots) in
+Make sure to open [http://localhost:8002/bots](http://localhost:3002/bots) in
 the browser to verify that your backend is working before you proceed!
 
-The base URL for your backend is: `http://localhost:8002`
+The base URL for your backend is: `http://localhost:3002`
 
 ## What You Already Have
 

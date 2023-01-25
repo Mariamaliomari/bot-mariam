@@ -1,55 +1,6 @@
 {
   "bots": [
     {
-      "id": 101,
-      "name": "wHz-93",
-      "health": 94,
-      "damage": 20,
-      "armor": 63,
-      "bot_class": "Support",
-      "catchphrase": "1010010101001101100011000111101",
-      "avatar_url": "https://robohash.org/nostrumrepellendustenetur.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:10.800Z",
-      "updated_at": "2018-10-02T19:55:10.800Z",
-      "status": "deselected"
-    },
-    {
-      "id": 102,
-      "name": "RyM-66",
-      "health": 86,
-      "damage": 36,
-      "armor": 77,
-      "bot_class": "Medic",
-      "catchphrase": "0110011100000100011110100110011000011001",
-      "avatar_url": "https://robohash.org/quidemconsequaturaut.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:10.827Z",
-      "updated_at": "2018-10-02T19:55:10.827Z"
-    },
-    {
-      "id": 111,
-      "name": "ya-81",
-      "health": 56,
-      "damage": 22,
-      "armor": 92,
-      "bot_class": "Defender",
-      "catchphrase": "100000011001011111110100110001010101100111001100",
-      "avatar_url": "https://robohash.org/similiquereprehenderitet.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:11.017Z",
-      "updated_at": "2018-10-02T19:55:11.017Z"
-    },
-    {
-      "id": 112,
-      "name": "jDn-31",
-      "health": 52,
-      "damage": 93,
-      "armor": 36,
-      "bot_class": "Assault",
-      "catchphrase": "00010011100010000010110100001001010000101001",
-      "avatar_url": "https://robohash.org/eiusautnihil.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:11.032Z",
-      "updated_at": "2018-10-02T19:55:11.032Z"
-    },
-    {
       "id": 114,
       "name": "lGp-46",
       "health": 67,
@@ -59,7 +10,8 @@
       "catchphrase": "001101000100001110001111010100110000000110000101",
       "avatar_url": "https://robohash.org/autsaepeeveniet.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:11.062Z",
-      "updated_at": "2018-10-02T19:55:11.062Z"
+      "updated_at": "2018-10-02T19:55:11.062Z",
+      "status": "deselected"
     },
     {
       "id": 115,
@@ -72,18 +24,6 @@
       "avatar_url": "https://robohash.org/consecteturveritatisid.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:11.093Z",
       "updated_at": "2018-10-02T19:55:11.093Z"
-    },
-    {
-      "id": 116,
-      "name": "o-44",
-      "health": 51,
-      "damage": 90,
-      "armor": 36,
-      "bot_class": "Assault",
-      "catchphrase": "10001111010110110100111010011000011001100",
-      "avatar_url": "https://robohash.org/temporibusexercitationemprovident.png?size=300x300&set=set1",
-      "created_at": "2018-10-02T19:55:11.119Z",
-      "updated_at": "2018-10-02T19:55:11.119Z"
     },
     {
       "id": 117,
@@ -254,7 +194,7 @@
       "avatar_url": "https://robohash.org/repellendusasperioresdolor.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:11.439Z",
       "updated_at": "2018-10-02T19:55:11.439Z",
-      "status": "selected"
+      "status": "deselected"
     },
     {
       "id": 131,
@@ -315,7 +255,7 @@
       "avatar_url": "https://robohash.org/dolorumnumquamratione.png?size=300x300&set=set1",
       "created_at": "2018-10-02T19:55:11.573Z",
       "updated_at": "2018-10-02T19:55:11.573Z",
-      "status": "selected"
+      "status": "deselected"
     },
     {
       "id": 137,
